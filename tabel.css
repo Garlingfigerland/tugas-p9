@@ -1,0 +1,87 @@
+body{
+	background-color:darkcyan;
+	font-family:cursive, arial, times, times new roman, sans-serif;
+}
+.header{
+	background-color:grey;
+	color:white;
+	text-align:center;
+	border-radius:15px; 
+}
+.footer{
+	background-color:grey;
+	color:white;
+	text-align:center;
+	border-radius:15px;
+}
+
+
+h3{
+	font-family:cursive arial, times, !important, times new roman, serif;
+}
+table{
+	background-color:white;
+}
+
+link{
+	text-family:times new roman,!important, cursive,;
+	background-color:white;
+	padding-top:10px;
+     padding-bottom:10px;
+     padding-left:10px;
+     padding-right:10px;
+     display:inline-block; 
+}
+.a1{
+	background-color:grey;
+	color:white;
+	text-decoration:none;
+	font-size:20px;
+	 padding-top:10px;
+     padding-bottom:10px;
+     padding-left:10px;
+     padding-right:10px;          
+     border-radius:15px;         
+}
+.a2{
+	background-color:grey;
+	color:white;
+	text-decoration:none;
+	font-size:20px;
+	 padding-top:10px;
+     padding-bottom:10px;
+     padding-left:10px;
+     padding-right:10px;          
+     border-radius:15px; 
+}
+.a3{background-color:grey;
+	color:white;
+	text-decoration:none;
+	font-size:20px;
+	 padding-top:10px;
+     padding-bottom:10px;
+     padding-left:10px;
+     padding-right:10px;          
+     border-radius:15px; 
+}
+.a4{background-color:grey;
+	color:white;
+	text-decoration:none;
+	font-size:20px;
+	 padding-top:10px;
+     padding-bottom:10px;
+     padding-left:10px;
+     padding-right:10px;          
+     border-radius:15px; 
+}
+.a5{
+	background-color:grey;
+	color:white;
+	text-decoration:none;
+	font-size:20px;
+	 padding-top:10px;
+     padding-bottom:10px;
+     padding-left:10px;
+     padding-right:10px;          
+     border-radius:15px; 
+}
